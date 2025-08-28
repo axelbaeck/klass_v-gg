@@ -1,7 +1,7 @@
-# [Github konto namn]
+axelbaeck
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+Telefon
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+Utöka mitt kunnande.
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+Jag kan lösa rubiks kub!
